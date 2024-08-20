@@ -1,4 +1,4 @@
-# Project Title
+# DeepAir: DeepAir: Inception-BiLSTM Fusion for Accurate AQI Prediction
 
 ## Description
 
